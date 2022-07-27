@@ -18,6 +18,5 @@ i'm <b>Steven</b>, french developer
 <h2 align="center">🚩 Stats </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenTedYT&show_icons=true&theme=tokyonight&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=StevenTedYT&show_icons=true&hide_border=true">
 <h2 align="center"> Bye! </h2>
 </div>
