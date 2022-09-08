@@ -15,8 +15,5 @@ i'm <b>Steven</b>, french developer
 <img src="https://img.shields.io/badge/@StevenTed%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="http://img.shields.io/badge/StevenTed%20-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white/">
 </p>
-<h2 align="center">🚩 Stats </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenTedYT&show_icons=true&theme=tokyonight&layout=compact">
 <h2 align="center"> Bye! </h2>
 </div>
