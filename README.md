@@ -15,5 +15,6 @@ i'm <b>Steven</b>, french developer
 <img src="https://img.shields.io/badge/@StevenTed%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="http://img.shields.io/badge/StevenTed%20-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white/">
 </p>
-<h2 align="center"> Bye! </h2>
+<h2 align="center"> Discord! </h2>
+<img src="https://lanyard-profile-readme.vercel.app/api/327878748466839552" align="center">
 </div>
