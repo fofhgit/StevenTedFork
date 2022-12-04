@@ -1,6 +1,6 @@
-<h1 align="center">Hellow! 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 <p align="center">
-i'm <b>Steven</b>, french developer
+i'm <b>Fofh</b>, french developer
 </p>
 <h2 align="center">🎨 My skills </h2>
 <p align="center">
@@ -12,6 +12,6 @@ i'm <b>Steven</b>, french developer
 <p align="center">
 </p>
 <h2 align="center"> Discord! </h2>
-[![Discord Presence](https://lanyard.cnrad.dev/api/980505175871610951)](https://discord.com/users/980505175871610951)
+  <h1>DarkWodd#7503</h1>
 </div>
 <p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a> And <a href="https://github.com/StevenTedYt">StevenTed</a></</p>
