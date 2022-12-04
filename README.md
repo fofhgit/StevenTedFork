@@ -18,4 +18,4 @@ i'm <b>Steven</b>, french developer
 <h2 align="center"> Discord! </h2>
 <img src="https://lanyard-profile-readme.vercel.app/api/327878748466839552" align="center">
 </div>
-<p style="color: 0d1117;">By <a href="https://github.com/UnTanukii">Tanukii</a></</p>
+<p style="color: #0d1117;">By <a href="https://github.com/UnTanukii">Tanukii</a></</p>
