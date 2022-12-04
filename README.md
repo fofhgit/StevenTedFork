@@ -12,6 +12,6 @@ i'm <b>Steven</b>, french developer
 <p align="center">
 </p>
 <h2 align="center"> Discord! </h2>
-<img src="https://lanyard.cnrad.dev/api/980505175871610951" align="center">
+<img src="[https://lanyard.cnrad.dev/api/9805051](https://discord.com/users/980505175871610951)75871610951" align="center">
 </div>
 <p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a> And <a href="https://github.com/StevenTedYt">StevenTed</a></</p>
